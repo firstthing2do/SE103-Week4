@@ -1,0 +1,16 @@
+Student Name: Imanishimwe Aime Emmanuel
+GitHub Username: firstthing2d0
+
+Authentication method I used: PAT
+
+Why I chose this method:
+I choose this method because it is simple and straightforward and that it what i usually worked with in my junior software development cources in secondary school.
+
+One security habit I must follow with this method:
+Keeping the token secure and at a safe place to always re-using it, another things is that knowing the privileges i give that accompnay the token
+
+Difference between a commit and a push:
+a commit is like a snapshot to the chnages i made to my directory or repo which is accompaned by a commit message while a push is transferring the changes i have committed on my local repo to the remote repository 
+
+My repository URL:
+https://github.com/firstthing2d0/SE103-Week4
