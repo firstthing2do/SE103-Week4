@@ -1,5 +1,5 @@
 Student Name: Imanishimwe Aime Emmanuel
-GitHub Username: firstthing2d0
+GitHub Username: firstthing2do
 
 Authentication method I used: PAT
 
@@ -13,4 +13,4 @@ Difference between a commit and a push:
 a commit is like a snapshot to the chnages i made to my directory or repo which is accompaned by a commit message while a push is transferring the changes i have committed on my local repo to the remote repository 
 
 My repository URL:
-https://github.com/firstthing2d0/SE103-Week4
+https://github.com/firstthing2do/SE103-Week4
