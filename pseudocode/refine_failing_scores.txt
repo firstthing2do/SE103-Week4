@@ -1,0 +1,31 @@
+Student Name: Imanishimwe Aime Emmanuel
+
+Problem:
+Find which scores failed.
+
+Input:
+a list of student scores
+
+Output:
+the failing scores, or a message if no one failed
+
+Failing rule:
+score < 50
+
+Pseudocode:
+START
+Get student scores
+SET failed = empty list
+
+FOR each score in the list
+    IF score < 50
+        THEN add score to failed
+    END IF
+END FOR
+
+IF failed is empty
+    THEN output "No one failed"
+ELSE
+    output the failing scores
+END IF
+END
