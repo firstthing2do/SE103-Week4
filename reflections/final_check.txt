@@ -1,0 +1,15 @@
+Student Name: Imanishimwe Aime Emmanuel
+GitHub Username: firstthing2do
+Repository: SE103-Week4
+Repository URL: https://github.com/firstthing2do/SE103-Week4
+
+What a pull request asks teammates to do:
+A pull request formally asks your teammates to review, comment on, and approve the code changes you have made before they are integrated into the project's primary codebase.
+
+Why branches and pull requests are used together:
+Branches provide the isolated sandbox where you can build features safely, while pull requests serve as the gatekeeper mechanism to review that isolated work before it enters production.
+
+One thing that confused me in this project and how I solved it:
+One of the things that confused me in this project and it hindered me from submitting on time is the "dry-run checkers" I would always try the best things I can but still no make it to be corrected correctly, only to find out there is an issue with it, basically that is the issue I had.
+
+All required files are on main: Yes
