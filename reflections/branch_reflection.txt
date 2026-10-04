@@ -1,0 +1,10 @@
+Student Name: Imanishimwe Aime Emmanuel
+
+Why teams use branches:
+eams use branches to isolate their work, allowing multiple developers to work on different features or bug fixes simultaneously without interfering with each other's progress. By creating a separate branch, a developer can write, test, and break code freely without risking the stability of the project's primary production code. It provides an organized environment for collaboration, as team members can easily track exactly which files are being altered for a specific task.
+
+Why add-reflection is a better branch name than test or changes:
+The name add-reflection is superior because it explicitly describes the specific feature or task being worked on, making it clear to the entire team.
+
+What stays protected when I work on a branch instead of main:
+The main branch remains completely protected as a stable, working version of the project that is safe from unverified or broken code. This ensures that live deployments, automated tests, and other team members' environments are never interrupted by unfinished features.
