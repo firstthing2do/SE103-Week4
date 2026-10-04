@@ -1,0 +1,30 @@
+Student Name: Imanishimwe Aime Emmanuel
+
+Problem:
+Daily Driving lessons.
+
+Input:
+Me, the Car and the Teacher
+
+Output:
+Driving without fault which can disqualify me
+
+Edge Case Handled:
+To be realistic is that sometimes, i do fail and try again the next day, it is not always perfect
+
+Pseudocode:
+START
+Prepare for the driving lesson
+Go to Auto École
+WHILE I have not passed the lesson
+    Practice driving with the teacher
+    IF I drive without faults
+        THEN Lesson is successful
+    ELSE
+        Practice again the next day
+    END IF
+END WHILE
+STOP
+
+Why this is clear enough to follow:
+This is clear enough becuase it elaborate my daily schedule in other word a loop in my week that explains the problem am addressing which happens repeatedly and the outcomes that come from it.
