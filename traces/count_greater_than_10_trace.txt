@@ -1,0 +1,15 @@
+Student Name: Imanishimwe Aime Emmanuel
+Sample Input: [4, 15, 10, 22, 8]
+
+Step-by-step trace:
+1. Start with count = 0.
+2. Check 4 → not greater than 10 → count = 0.
+3. Check 15 → greater than 10 → count = 1.
+4. Check 10 → not greater than 10 → count = 1.
+5. Check 22 → greater than 10 → count = 2.
+6. Check 8 → not greater than 10 → count = 2.
+
+Final output: 2
+
+Empty list input: []
+Empty list result: Error: list is empty
