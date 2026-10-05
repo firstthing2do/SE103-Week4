@@ -12,4 +12,15 @@ Branches provide the isolated sandbox where you can build features safely, while
 One thing that confused me in this project and how I solved it:
 One of the things that confused me in this project and it hindered me from submitting on time is the "dry-run checkers" I would always try the best things I can but still no make it to be corrected correctly, only to find out there is an issue with it, basically that is the issue I had.
 
+
+What I understand better about algorithms now:
+The benefits of identifying the Problem, the Input and Output before hand or before writing the initial codes or the pseudocode
+
+How tracing changed my confidence:
+Tracing changed my confidence because it can gave some sence of security and assurance that what i did is functioning as it inteded not just in the air but with real examples
+
+One pseudocode habit I will keep:
+Focusing on firstly identifying the Problem, Input and the Output before just writing the code or the pseudocode
+
+
 All required files are on main: Yes
